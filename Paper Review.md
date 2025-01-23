@@ -1,2 +1,2 @@
 *  [[Agentic Safety]]
-* [[Embodied Agent]]
+*  [[Embodied Agent]]
