@@ -41,17 +41,33 @@ education:
   position: >- 
     B.S Student in Department of Computer Science <br/>
     Concurrent Teacher Certification in Computer Science Education <br/>
-  date: Mar. 2021 - present
+  date: Mar. 2021 - Present
 #- name: Peking University
 #  logo: /assets/images/badges/PKU_red.png
 #  position: B.S. in Computer Science
 #  date: Sep. 2019 - Jul. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: KAIST, Rise Lab (advised by Prof. Kimin Lee)
+   logo: /assets/images/badges/kaist_circle.png
+   position: Research Intern
+   date: Jun. 2025 ‑ Present
+ - name: AIM Intelligence (AI Security Measures Research Team)
+   logo: /assets/images/empty_300x200.png
+   position: Research Intern
+   date: Oct. 2024 ‑ May. 2025
+ - name: Yonsei, MIR Lab (advised by Prof. Youngjae Yu)
+   logo: /assets/images/badges/yonsei_circle.svg
+   position: Research Intern
+   date: Jan. 2025 ‑ May. 2025
+ - name: YAI (Yonsei AI Club) 
+   logo: /assets/images/badges/yonsei_circle.svg
+   position: Research Member
+   date: Jul. 2023 ‑ Jun. 2025
+ - name: LikeLion (Yonsei IT Entrepreneurship Club) Seoul, South Korea
+   logo: /assets/images/badges/yonsei_circle.svg
+   position: Backend Member (ORGANiZOR AT 2023)
+   date: Mar. 2022 ‑ Dec. 2023
 
 awards:
 - name: <strong>2nd Prize</strong>, Yonsei Prospective Teachers’ Teaching Competition 
@@ -72,4 +88,3 @@ awards:
   date: 2023
 - name: <strong>Silver Prize</strong>, Yonsei GenAI Utilization Competition 
   date: 2023
-

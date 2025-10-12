@@ -39,6 +39,7 @@ collections:
   - publications
   - news
   - showcase
+  - projects
 
 include:
   - assets
