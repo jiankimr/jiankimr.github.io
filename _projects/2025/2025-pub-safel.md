@@ -1,26 +1,21 @@
 ---
-title:          "Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making"
-date:           2025-05-12 00:01:00 +0800
+title:          "CHEAPAT9"
+date:           2023-09-30
 selected:       true
-pub:            "Empirical Methods in Natural Language Processing (EMNLP) Main"
-pub_pre:        "Submitted to "
+#pub:            "63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)"
+#pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2025"
-semantic_scholar_id: 278911476  # use this to retrieve citation count
+pub_date:       "2023"
+#semantic_scholar_id: 277321751  # use this to retrieve citation count
 abstract: >-
-  Evaluation across 13 state-of-the-art LLMs reveals that while models often reject clearly unsafe commands, they struggle to anticipate and mitigate subtle, situational risks, and this work introduces SAFEL, the framework for systematically evaluating the physical safety of LLMs in embodied decision making.
-cover:          /assets/images/covers/safel.png
+  • Developed CHEAPAT9, an online store offering high‑discount daily necessities for people living alone
+  • Solely managed the infrastructure of a Spring‑based system, deploying the service using AWS resources including RDS, ECS, and S3
+  • Operated the live service with weekly Monday sales events, with products consistently selling out within five minutes
+cover:         /assets/images/git.png
 authors:
-  - Yejin Son
-  - Minseo Kim
-  - Sungwoong Kim
-  - Seungju Han
-  - Jian Kim
-  - Dongju Jang
-  - Youngjae Yu
-  - Chanyoung Park
+  - Infra, Service Operater
 links:
-  Code: https://github.com/Yonsei-MIR/EAI-safety
-#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Infra Note: https://morib.notion.site/9-Deploy-f649085ca956422286c4bf73aec3a65e?pvs=4
+#  Unsplash: "/assets/images/covers/sudo.png"
 ---

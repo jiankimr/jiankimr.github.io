@@ -1,26 +1,22 @@
 ---
-title:          "State Your Intention to Steer Your Attention: An AI assistant for Intentional Digital Living"
-date:           2025-09-20 00:01:00 +0800
-selected:       false
-pub:            "ACM (Association of Computing Machinery) CHI"
-# pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+title:          "BGMgen"
+date:           2024-06-20
+selected:       true
+#pub:            "63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)"
+#pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2026"
-#semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+pub_date:       "2024"
+#semantic_scholar_id: 277321751  # use this to retrieve citation count
 abstract: >-
-  People often face distractions when using digital devices. To address this, we propose an AI assistant that infers user intentions, monitors alignment with them, and provides gentle nudges when deviations occur. In a three-week study with 22 participants, the system outperformed rule-based and passive baselines in helping users stay focused and aligned with their goals.
-cover:          /assets/images/covers/ina.png
+  • Developed BGMGen, a framework for generating background music aligned with video content using multimodal learning
+  • Generated music conditioned on visual cues, focusing on emotions and human actions in the video
+  • Evaluated emotional congruence using the Valence‑Arousal‑Dominance (VAD) space for affective alignment
+  • Aimed to enhance audiovisual experiences through emotion‑aware and context‑sensitive music generation
+cover:         /assets/images/git.png
 authors:
-  - Juheon Choi
-  - Juyong Lee
-  - Jian Kim
-  - Chanyoung Kim
-  - Taewon Min
-  - W. Bradley Knox
-  - Min Kyung Lee
-  - Kimin Lee
-links:
-#  Code: https://github.com/luost26/academic-homepage
-#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  - Researcher
+# links:
+#   Code: https://github.com/AIM-Intelligence/SUDO
+# #  Unsplash: "/assets/images/covers/sudo.png"
 ---

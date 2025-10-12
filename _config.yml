@@ -36,10 +36,14 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
-  - publications
-  - news
-  - showcase
-  - projects
+  publications:
+    output: true
+  news:
+    output: true
+  showcase:
+    output: true
+  projects:
+    output: true
 
 include:
   - assets
