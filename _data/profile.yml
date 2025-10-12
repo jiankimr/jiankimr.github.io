@@ -33,7 +33,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpeg
 portrait_caption: >-
-  PPhoto taken at the ABC (AWS Resources Utilization) Hackathon, where I presented our project and contributed to idea development and backend implementation.
+  Photo taken at the ABC (AWS Resources Utilization) Hackathon, where I presented our project and contributed to idea development and backend implementation.
 
 education:
 - name: Yonsei University. Seoul, South Korea
@@ -64,7 +64,7 @@ experience:
    logo: /assets/images/badges/yonsei_circle.svg
    position: Research Member
    date: Jul. 2023 ‑ Jun. 2025
- - name: LikeLion (Yonsei IT Entrepreneurship Club) Seoul, South Korea
+ - name: LikeLion (Yonsei IT Entrepreneurship Club)
    logo: /assets/images/badges/yonsei_circle.svg
    position: Backend Member (ORGANiZOR AT 2023)
    date: Mar. 2022 ‑ Dec. 2023

@@ -9,10 +9,10 @@ selected:       true
 pub_date:       "2024"
 #semantic_scholar_id: 277321751  # use this to retrieve citation count
 abstract: >-
-  • Developed BGMGen, a framework for generating background music aligned with video content using multimodal learning
-  • Generated music conditioned on visual cues, focusing on emotions and human actions in the video
-  • Evaluated emotional congruence using the Valence‑Arousal‑Dominance (VAD) space for affective alignment
-  • Aimed to enhance audiovisual experiences through emotion‑aware and context‑sensitive music generation
+  Developed BGMGen, a framework for generating background music aligned with video content using multimodal learning.
+  Generated music conditioned on visual cues, focusing on emotions and human actions in the video.
+  Evaluated emotional congruence using the Valence‑Arousal‑Dominance (VAD) space for affective alignment.
+  Aimed to enhance audiovisual experiences through emotion‑aware and context‑sensitive music generation.
 cover:         /assets/images/git.png
 authors:
   - Researcher

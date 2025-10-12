@@ -9,9 +9,9 @@ selected:       true
 pub_date:       "2023"
 #semantic_scholar_id: 277321751  # use this to retrieve citation count
 abstract: >-
-  • Developed CHEAPAT9, an online store offering high‑discount daily necessities for people living alone
-  • Solely managed the infrastructure of a Spring‑based system, deploying the service using AWS resources including RDS, ECS, and S3
-  • Operated the live service with weekly Monday sales events, with products consistently selling out within five minutes
+  Developed CHEAPAT9, an online store offering high‑discount daily necessities for people living alone.
+  Solely managed the infrastructure of a Spring‑based system, deploying the service using AWS resources including RDS, ECS, and S3.
+  Operated the live service with weekly Monday sales events, with products consistently selling out within five minutes.
 cover:         /assets/images/git.png
 authors:
   - Infra, Service Operater
