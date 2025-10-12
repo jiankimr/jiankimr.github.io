@@ -1,3 +1,12 @@
+#jiankimr
+when open terminal, "chruby ruby-3.4.1"
+
+(option)
+echo 'source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh' >> ~/.zshrc
+echo 'source $(brew --prefix)/opt/chruby/share/chruby/auto.sh' >> ~/.zshrc
+echo 'chruby ruby-3.4.1' >> ~/.zshrc
+source ~/.zshrc
+
 # academic-homepage
 
 ![Preview](assets/images/etc/preview.png)
