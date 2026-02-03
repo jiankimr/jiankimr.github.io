@@ -14,9 +14,9 @@
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
                                         <div class="small">{{ item.dept }}</div>
-                                        <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
-                                            <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div class="small d-flex flex-wrap">
+                                            <div class="mr-2">{{ item.position }}</div>
+                                            <div class="ml-auto"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>
                                 </li>
@@ -38,8 +38,8 @@
                                         <div>{{ item.name }}</div>
                                         <div class="small">{{ item.dept }}</div>
                                         <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
-                                            <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
+                                            <div class="mr-2" style="min-width: 0;">{{ item.position }}</div>
+                                            <div class="ml-auto text-nowrap"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>
                                 </li>
@@ -57,8 +57,8 @@
                                 {% for item in site.data.profile.awards %}
                                 <li>
                                     <div class="d-flex">
-                                        <div>{{ item.name }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div class="mr-2" style="min-width: 0;">{{ item.name }}</div>
+                                        <div class="ml-auto text-nowrap"><em>{{ item.date }}</em></div>
                                     </div>
                                 </li>
                                 {% endfor %}

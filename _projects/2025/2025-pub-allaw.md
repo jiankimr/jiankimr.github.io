@@ -12,7 +12,7 @@ abstract: >-
   Developed ALLAW, a legislative information platform designed to improve public accessibility to bills and legal data.
   Implemented a keyword‑based subscription system for real‑time tracking of legislative proposals.
   Built a fine‑tuned GPT‑powered chatbot to provide bill summaries and respond to user queries in natural language.
-  Designed an advanced search engine using ElasticSearch, enabling users to find bills by keyword, content, or related legislation.
+  Designed an advanced search engine using Elasticsearch, enabling users to find bills by keyword, content, or related legislation.
 cover:         /assets/images/git.png
 authors:
   - Backend Developer

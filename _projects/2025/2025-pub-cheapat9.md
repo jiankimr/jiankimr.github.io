@@ -1,5 +1,5 @@
 ---
-title:          "CHEAPAT9"
+title:          "CHEAPat9"
 date:           2023-09-30
 selected:       false
 #pub:            "63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)"
@@ -14,7 +14,7 @@ abstract: >-
   Operated the live service with weekly Monday sales events, with products consistently selling out within five minutes.
 cover:         /assets/images/git.png
 authors:
-  - Infra, Service Operater
+  - Infra, Service Operator
 links:
   Infra Note: https://morib.notion.site/9-Deploy-f649085ca956422286c4bf73aec3a65e?pvs=4
 #  Unsplash: "/assets/images/covers/sudo.png"

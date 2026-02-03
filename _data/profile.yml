@@ -43,7 +43,7 @@ education:
 - name: Yonsei University. Seoul, South Korea
   logo: /assets/images/badges/yonsei_circle.svg
   position: >- 
-    B.S Student in Department of Computer Science <br/>
+    B.S. Student in Department of Computer Science <br/>
 #    Concurrent Teacher Certification in Computer Science Education <br/>
   date: Mar. 2021 - Present
 #- name: Peking University
@@ -55,7 +55,7 @@ experience:
  - name: KAIST AI, Rise Lab 
    dept: Advised by Prof. Kimin Lee
    logo: /assets/images/badges/kaist_circle.png
-   position: Undergraduate Intern
+   position: Student Intern
    date: Jun. 2025 ‑ Present
  - name: AIM Intelligence
    dept: AI Security Measures Research Team
@@ -65,7 +65,7 @@ experience:
  - name: Yonsei, MIR Lab
    dept: Advised by Prof. Youngjae Yu
    logo: /assets/images/badges/yonsei_circle.svg
-   position: Undergraduate Intern
+   position: Student Intern
    date: Jan. 2025 ‑ May. 2025
  - name: Yonsei, YAI
    dept: AI Club
