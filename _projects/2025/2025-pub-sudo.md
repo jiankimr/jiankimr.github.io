@@ -10,7 +10,7 @@ pub_date:       "2025"
 #semantic_scholar_id: 277321751  # use this to retrieve citation count
 abstract: >-
   Developed EngEagle, a Chrome extension that streamlines English vocabulary acquisition during web browsing. Implemented instant word lookup and translation with automatic saving to a personal vocabulary list. Built a lightweight review/quiz flow to reinforce saved words with minimal context switching. Led the entire product cycle solo—from problem definition and MVP design to implementation and user-feedback iteration—ranking <strong>1st out of 25</strong> in a peer- and instructor- evaluated course showcase (SW·AI Business Application Design, CAS4151, 2025-2).
-cover:         /assets/images/engeagle.png
+cover:         /assets/images/git.png
 authors:
   - Sole developer (Course Project)
 links:
