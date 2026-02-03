@@ -1,4 +1,4 @@
----
+<--- ---
 title:          "ViMID: Proposal of an OOD detection algorithm combining Virtual logit vector and Mahalanobis distance"
 date:           2024-02-12 00:01:00 +0800
 selected:       false
@@ -19,4 +19,4 @@ authors:
 links:
 #  Code: https://github.com/luost26/academic-homepage
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
----
+--- --->

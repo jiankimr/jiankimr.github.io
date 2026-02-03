@@ -29,9 +29,11 @@ navbar_title: Home
     %}
 {% endif %}
 
-{% assign pubs = site.projects | sort: "date" | reverse | where: "selected", true %}
-{% 
-  include widgets/project_card.html 
-  projects=pubs
-  title='<i class="fas fa-star"></i> Selected Projects'
-%}
+{% if site.data.display.homepage.show_selected_projects %}
+    {% assign pubs = site.projects | sort: "date" | reverse | where: "selected", true %}
+    {% 
+    include widgets/project_card.html 
+    projects=pubs
+    title='<i class="fas fa-star"></i> Selected Projects'
+    %}
+{% endif %}

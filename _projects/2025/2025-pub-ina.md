@@ -1,7 +1,7 @@
 ---
 title:          "BGMgen"
 date:           2024-06-20
-selected:       true
+selected:       false
 #pub:            "63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)"
 #pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

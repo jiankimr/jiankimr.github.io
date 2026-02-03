@@ -3,7 +3,7 @@ title:          "sudo rm ‑rf agentic_security"
 date:           2025-03-13
 selected:       true
 pub:            "63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)"
-pub_pre:        "Submitted to "
+pub_pre:        "Accepted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
@@ -12,8 +12,8 @@ abstract: >-
   SUDO (Screen-based Universal Detox2Tox Offense), a novel attack framework that systematically bypasses refusal-trained safeguards in commercial computer-use agents, such as Claude for Computer Use, is presented.
 cover:         /assets/images/covers/sudo.png
 authors:
-  - Sejin Lee
-  - Jian Kim
+  - Sejin Lee*
+  - Jian Kim*
   - Haon Park
   - Ashkan Yousefpour
   - Sangyoon Yu

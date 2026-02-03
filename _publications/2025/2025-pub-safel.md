@@ -1,9 +1,9 @@
 ---
 title:          "Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making"
 date:           2025-05-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Empirical Methods in Natural Language Processing (EMNLP) Main"
-pub_pre:        "Submitted to "
+pub_pre:        "Accepted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"

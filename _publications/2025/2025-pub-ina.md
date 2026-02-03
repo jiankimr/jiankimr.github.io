@@ -3,8 +3,8 @@ title:          "State Your Intention to Steer Your Attention: An AI assistant f
 date:           2025-09-20 00:01:00 +0800
 selected:       false
 pub:            "ACM (Association of Computing Machinery) CHI"
-# pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+pub_pre:        "Accepted to "
+# pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
