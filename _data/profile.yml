@@ -8,6 +8,9 @@ positions:
 - logo: /assets/images/badges/kaist_circle.png
   name: Undergraduate Intern @ KAIST AI
 
+short_bio_positions:
+- logo: /assets/images/badges/kaist_circle.png
+  name: Intern @ KAIST AI
 
 email: "jiankimr@gmail.com"
 # cv_link: link-to-your-cv-file
@@ -49,23 +52,28 @@ education:
 #  date: Sep. 2019 - Jul. 2021
 
 experience:
- - name: KAIST, Rise Lab (advised by Prof. Kimin Lee)
+ - name: KAIST AI, Rise Lab 
+   dept: Advised by Prof. Kimin Lee
    logo: /assets/images/badges/kaist_circle.png
    position: Undergraduate Intern
    date: Jun. 2025 ‑ Present
- - name: AIM Intelligence (AI Security Measures Research Team)
+ - name: AIM Intelligence
+   dept: AI Security Measures Research Team
    logo: /assets/images/empty_300x200.png
    position: Research Intern (Research scientist, Mar. - May.)
    date: Oct. 2024 ‑ May. 2025
- - name: Yonsei, MIR Lab (advised by Prof. Youngjae Yu)
+ - name: Yonsei, MIR Lab
+   dept: Advised by Prof. Youngjae Yu
    logo: /assets/images/badges/yonsei_circle.svg
    position: Undergraduate Intern
    date: Jan. 2025 ‑ May. 2025
- - name: Yonsei, YAI (AI Club) 
+ - name: Yonsei, YAI
+   dept: AI Club
    logo: /assets/images/badges/yonsei_circle.svg
    position: Research Member
    date: Jul. 2023 ‑ Jun. 2025
- - name: Yonsei, LikeLion (IT Entrepreneurship Club)
+ - name: Yonsei, LikeLion 
+   dept: IT Entrepreneurship Club
    logo: /assets/images/badges/yonsei_circle.svg
    position: Backend Member (Organizer, 2023)
    date: Mar. 2022 ‑ Dec. 2023
