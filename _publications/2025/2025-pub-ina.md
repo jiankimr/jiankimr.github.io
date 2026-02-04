@@ -2,7 +2,7 @@
 title:          "State Your Intention to Steer Your Attention: An AI assistant for Intentional Digital Living"
 date:           2025-09-20 00:01:00 +0800
 selected:       false
-pub:            "ACM (Association of Computing Machinery) CHI"
+pub:            "ACM Conference on Human Factors in Computing Systems (CHI)"
 pub_pre:        "Accepted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
